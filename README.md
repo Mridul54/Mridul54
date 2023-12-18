@@ -15,7 +15,6 @@
 <div onclick="window.location.href='mailto:dasmridul364@gmail.com'">
   <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=white" alt="Gmail Badge">
 </div>
-<a href="https://linkedin.com/in/mridul-das54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"  height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mridul-das54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mridul-das54" height="30" width="40" /></a>
 <a href="https://fb.com/avronil.das.mridul09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avronil.das.mridul09" height="30" width="40" /></a>
 <a href="https://instagram.com/___avro_nil___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___avro_nil___" height="30" width="40" /></a>
